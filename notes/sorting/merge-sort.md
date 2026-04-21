@@ -89,8 +89,7 @@ step = 4: [0..3] [4..7] 合并
 
 ## 4. Java 模板代码
 
-下面代码包含递归版和非递归版。  
-代码文件也单独放在：[MergeSort.java](../../code/java/sorting/MergeSort.java)
+下面代码包含递归版和非递归版，后续复习直接看这一份即可。
 
 ```java
 import java.util.Arrays;
