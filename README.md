@@ -14,6 +14,7 @@ algorithm-learning
 ## 排序算法
 
 - [归并排序：递归版与非递归版](notes/sorting/merge-sort.md)
+- [归并分治统计题：逆序对、小和、翻转对](notes/sorting/merge-divide-and-conquer.md)
 
 ## 数学与数论
 
