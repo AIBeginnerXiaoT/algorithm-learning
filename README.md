@@ -7,6 +7,7 @@
 ```text
 algorithm-learning
 └── notes/              # 算法笔记、题解、复习总结
+    ├── divide-and-conquer/  # 分治与选择
     ├── sorting/        # 排序算法
     └── lanqiao15/      # 蓝桥杯第十五届相关题目
 ```
@@ -15,6 +16,10 @@ algorithm-learning
 
 - [归并排序：递归版与非递归版](notes/sorting/merge-sort.md)
 - [归并分治统计题：逆序对、小和、翻转对](notes/sorting/merge-divide-and-conquer.md)
+
+## 分治与选择
+
+- [分治基础：归并排序代码补全与随机选择算法](notes/divide-and-conquer/merge-sort-and-randomized-select.md)
 
 ## 数学与数论
 
