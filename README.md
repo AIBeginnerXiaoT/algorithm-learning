@@ -19,7 +19,7 @@ algorithm-learning
 
 ## 分治与选择
 
-- [分治基础：归并排序代码补全与随机选择算法](notes/divide-and-conquer/merge-sort-and-randomized-select.md)
+- [分治基础：随机快排与随机选择算法](notes/divide-and-conquer/randomized-quicksort-and-select.md)
 
 ## 数学与数论
 
