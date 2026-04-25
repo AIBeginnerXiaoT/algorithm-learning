@@ -16,6 +16,7 @@ algorithm-learning
 
 - [归并排序：递归版与非递归版](notes/sorting/merge-sort.md)
 - [归并分治统计题：逆序对、小和、翻转对](notes/sorting/merge-divide-and-conquer.md)
+- [堆排序：大根堆、向上调整与向下调整](notes/sorting/heap-sort.md)
 
 ## 分治与选择
 
