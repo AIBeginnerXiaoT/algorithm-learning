@@ -7,10 +7,15 @@
 ```text
 algorithm-learning
 └── notes/              # 算法笔记、题解、复习总结
+    ├── data-structures/    # 数据结构
     ├── divide-and-conquer/  # 分治与选择
     ├── sorting/        # 排序算法
     └── lanqiao15/      # 蓝桥杯第十五届相关题目
 ```
+
+## 数据结构
+
+- [优先队列经典题：减半数组、会议室、合并 K 个链表](notes/data-structures/priority-queue-classic-problems.md)
 
 ## 排序算法
 
