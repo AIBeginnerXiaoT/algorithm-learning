@@ -7,11 +7,16 @@
 ```text
 algorithm-learning
 └── notes/              # 算法笔记、题解、复习总结
+    ├── bitwise/            # 位运算
     ├── data-structures/    # 数据结构
     ├── divide-and-conquer/  # 分治与选择
     ├── sorting/        # 排序算法
     └── lanqiao15/      # 蓝桥杯第十五届相关题目
 ```
+
+## 位运算
+
+- [异或经典题：找到两个出现奇数次的数](notes/bitwise/two-odd-occurrence-numbers.md)
 
 ## 数据结构
 
