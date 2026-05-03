@@ -17,6 +17,7 @@ algorithm-learning
 ## 位运算
 
 - [异或经典题：找到两个出现奇数次的数](notes/bitwise/two-odd-occurrence-numbers.md)
+- [位图 Bitset：用 int 数组压缩布尔状态](notes/bitwise/bitset.md)
 
 ## 数据结构
 
